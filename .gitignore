@@ -1,0 +1,31 @@
+# Файлы с данными пользователя
+expenses.json
+*.json
+
+# Python байт-код
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Резервные копии
+*.bak
+*.tmp
